@@ -1,0 +1,88 @@
+{
+  "BMI_Data": [
+    {
+      "email": "mohnish@gmail.com",
+      "password": "mohnish",
+      "username": "Mohnish",
+      "age": "21",
+      "id": 1,
+      "history": [
+        {
+          "weight": "90",
+          "height": "7",
+          "status": "Normal",
+          "bmi": 20.93
+        },
+        {
+          "weight": "80",
+          "height": "8",
+          "status": "Normal",
+          "bmi": 19.77
+        },
+        {
+          "weight": "80",
+          "height": "5",
+          "status": "Underweight",
+          "bmi": 13.45
+        },
+        {
+          "weight": "80",
+          "height": "5",
+          "status": "Underweight",
+          "bmi": 34.44
+        },
+        {
+          "weight": "80",
+          "height": "5.6",
+          "status": "Underweight",
+          "bmi": 34.44
+        },
+        {
+          "weight": "80",
+          "height": "10",
+          "status": "Underweight",
+          "bmi": 8.61
+        }
+      ]
+    },
+    {
+      "email": "bhavna@gmail.com",
+      "password": "bhavna",
+      "username": "Bhavna",
+      "age": "25",
+      "history": [
+        {
+          "weight": "45",
+          "height": "5",
+          "status": "Normal",
+          "bmi": 19.38
+        },
+        {
+          "weight": "43",
+          "height": "5",
+          "status": "Normal",
+          "bmi": 18.51
+        },
+        {
+          "weight": "70",
+          "height": "5",
+          "status": null,
+          "bmi": 30.14
+        },
+        {
+          "weight": "80",
+          "height": "5",
+          "status": null,
+          "bmi": 34.44
+        },
+        {
+          "weight": "50",
+          "height": "5",
+          "status": "Normal",
+          "bmi": 21.53
+        }
+      ],
+      "id": 2
+    }
+  ]
+}   
